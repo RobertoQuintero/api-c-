@@ -1,0 +1,70 @@
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\appsettings.Development.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\appsettings.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.exe
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.deps.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.runtimeconfig.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.pdb
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.AssemblyReference.cache
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.AssemblyInfoInputs.cache
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.AssemblyInfo.cs
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.CoreCompileInputs.cache
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.ImpresoraServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.build.ImpresoraServidor.props
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ImpresoraServidor.props
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ImpresoraServidor.props
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\scopedcss\bundle\ImpresoraServidor.styles.css
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.CopyComplete
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\refint\ImpresoraServidor.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.pdb
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.genruntimeconfig.cache
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ref\ImpresoraServidor.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\appsettings.Development.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\appsettings.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.exe
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.deps.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.runtimeconfig.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\ImpresoraServidor.pdb
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.AssemblyInfo.cs
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.ImpresoraServidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.build.ImpresoraServidor.props
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.ImpresoraServidor.props
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.ImpresoraServidor.props
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\scopedcss\bundle\ImpresoraServidor.styles.css
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.csproj.CopyComplete
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\refint\ImpresoraServidor.dll
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.pdb
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ImpresoraServidor.genruntimeconfig.cache
+C:\Users\DELL\Downloads\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\ref\ImpresoraServidor.dll

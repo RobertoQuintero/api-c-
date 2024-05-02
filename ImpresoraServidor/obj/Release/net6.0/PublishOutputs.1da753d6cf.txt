@@ -1,0 +1,14 @@
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\ImpresoraServidor.exe
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\ImpresoraServidor.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\ImpresoraServidor.deps.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\ImpresoraServidor.runtimeconfig.json
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\ImpresoraServidor.pdb
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\CeoDigital 04\source\repos\ImpresoraServidor\ImpresoraServidor\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
